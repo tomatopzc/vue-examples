@@ -8,5 +8,5 @@ module.exports = {
   //生产环境配置：
   publicPath: "./",
   //编译后不生成map映射文件
-  productionSourceMep: false
+  productionSourceMap: false
 };
